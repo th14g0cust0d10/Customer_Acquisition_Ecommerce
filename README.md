@@ -1,9 +1,9 @@
 # Customer Acquisition E-commerce
 ##### Online Shoppers Purchasing Intention
 *Portfólio Thiago Gonçalves Custódio*
-## 1. Descrição geral do problema
 
 ---
+## 1. Descrição geral do problema
 
 **Customer Acquisition** (ou o processo de obtenção de novos clientes) refere-se as estratégias que uma empresa pode adotar para a aquisição de novos clientes.
 
