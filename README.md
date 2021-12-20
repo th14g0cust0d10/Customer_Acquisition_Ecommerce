@@ -2,6 +2,8 @@
 ##### Online Shoppers Purchasing Intention
 *Portfólio Thiago Gonçalves Custódio*
 
+![](ecommerce.png)
+
 ---
 ## 1. Descrição geral do problema
 
